@@ -1,2 +1,4 @@
-# logo
-Theme and variation on a logo
+# SEM.js Logo
+
+This logo was created by [Josh Bechard](https://twitter.com/oshbec) for SEM.js.
+
